@@ -1,0 +1,8 @@
+setuptools
+requests
+numpy
+pandas
+scipy
+jupyter
+bs4
+lxml
