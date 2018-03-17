@@ -17,5 +17,5 @@ In Windows 10, open PowerShell and enter the following to launch the Docker cont
 ```
 docker rm -f scrape_tools
 docker pull stevemclaugh/scrape-tools
-docker run --name scrape_tools -ti -p 8889:8889 --volume C:\Users\mclaugh\Desktop\sharedfolder:/sharedfolder/ stevemclaugh/scrape-tools
+docker run --name scrape_tools -ti -p 8889:8889 --volume C:\Users\***your_username***\Desktop\sharedfolder:/sharedfolder/ stevemclaugh/scrape-tools
 ```
